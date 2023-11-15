@@ -78,7 +78,7 @@ export default function CreateTaskForm({
                     <FormControl>
                       <Input
                         autoFocus
-                        placeholder="Visit codewithbeto.dev"
+                        placeholder=""
                         {...field}
                       />
                     </FormControl>
